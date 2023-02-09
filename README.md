@@ -1,1 +1,1 @@
-Projeto feito durante o curso de responsividade da Alura
+Web project made for "Responsive Web Design with mobile first" course from Alura
